@@ -5,3 +5,10 @@
 	letter-spacing: 4px;
 	font-weight: lighter;
 }
+.description {
+	font-family: Baskerville;
+	font-size: 12px;
+	color: black;
+	letter-spacing: 1px;
+	font-weight: lighter;
+}
